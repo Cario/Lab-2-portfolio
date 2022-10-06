@@ -1,0 +1,35 @@
+table,th,td{
+    border: 1px solid black;
+}
+
+.photo {
+    border-radius: 8px;
+}
+
+#black {
+    background-color:black;
+}
+
+.aqua {
+    background-color:aqua;
+}
+
+.aquamarine {
+    background-color:aquamarine;
+}
+
+.red {
+    background-color:rgb(211, 58, 58);
+}
+
+.purple{
+    background-color:blueviolet;
+}
+
+.listTitle {
+    background-color:rgb(164, 222, 255);
+}
+
+.listText {
+    text-shadow: 2px 2px gold;
+  }
